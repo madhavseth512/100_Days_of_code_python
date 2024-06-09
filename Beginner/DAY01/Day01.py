@@ -1,5 +1,6 @@
 # printing in python
 print("Hello world")
+# Can also print this 2 by enclosing it in single quotes
 print(2)
 print(45+7)
 print('A')
