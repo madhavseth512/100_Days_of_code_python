@@ -34,6 +34,14 @@ print("Hello " + input("Enter your name again "))
 No_of_letters = len("Madhav")
 print(No_of_letters)
 
+# Here we can take input and calculate the length of the string entered and then print the final result by
+# this particular piece of code
+print(len(input("Enter your name and I will tell you number of characters in it")))
+
+# Instead of this long piece of code I can use variables
+Name = input("Enter your name")
+length = len(Name)
+print(length)
 
 
 
