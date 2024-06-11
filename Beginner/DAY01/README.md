@@ -9,3 +9,6 @@
 - How can we make use of variables of different types in our code
 - Variable naming conventions which are similar to C++ language
 - Finally we made the project of band name generator
+
+### There are two python files in this folder one of which contains the basic implementation of Python language which I did during the lectures 
+### Another one contains the code for bnad name generator project.
